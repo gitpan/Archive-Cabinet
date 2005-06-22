@@ -1,0 +1,8 @@
+TYPEMAP
+
+Archive::Cabinet::decomp    T_PTROBJ
+Archive::Cabinet::cab		T_PTROBJ
+Archive::Cabinet::file		T_PTROBJ
+Archive::Cabinet::folder	T_PTROBJ
+Archive::Cabinet::cabFile   T_PTROBJ
+Archive::Cabinet::buf       T_PTROBJ

@@ -1,0 +1,9 @@
+Cabinet.xs
+Changes
+Makefile.PL
+MANIFEST
+ppport.h
+README
+t/Archive-Cabinet.t
+lib/Archive/Cabinet.pm
+dasetup.CAB

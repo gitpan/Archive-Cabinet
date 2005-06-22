@@ -1,0 +1,6 @@
+Revision history for Perl extension Archive::Cabinet.
+
+0.01  Wed Apr 13 09:20:20 2005
+	- original version; created by h2xs 1.23 with options
+		-n Archive::Cabinet libmspack/mspack/mspack.h -L/usr/local/lib -lmspack
+
